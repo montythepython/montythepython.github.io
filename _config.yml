@@ -19,10 +19,9 @@ defaults:
       layout: "default"
 
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 
 # plugins:
 #   - jekyll-feed
 #   - jekyll-sitemap
 #   - jekyll-seo-tag
-theme: jekyll-theme-cayman

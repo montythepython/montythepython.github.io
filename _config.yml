@@ -19,7 +19,7 @@ defaults:
       layout: "default"
 
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 # plugins:
 #   - jekyll-feed

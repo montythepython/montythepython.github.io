@@ -3,13 +3,19 @@
 ### Heading 3
 #### this is 4 and can go to 6
 
+1986\. What a great season.
+
+1986. What a great season.
+1987. df
+
+
 Numbered list:
 1. Item 1
 2. dos
 3. tres
 
-2. what is
-1. this
+4. what is
+5. this
 
 bullet list:
 * bullet 1
@@ -36,6 +42,18 @@ blockquote
 
     using double tab creates code. it is actually 4 spaces
 
+
+Please don't use any `<blink>` tags.
+
+`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
+
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+<http://example.com/>
+
+<address@example.com>
 
 one line
 ***

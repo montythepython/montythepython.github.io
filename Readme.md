@@ -24,6 +24,10 @@ bullet list:
 + dos
 + tres
 
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
+
 blockquote
 > this is
 > 
@@ -34,12 +38,17 @@ blockquote
 
 
 one line
+***
 
 dos
 
 tres
 
+``There is a literal backtick (`) here.``
+
 <code echo touch ls pwd>
+
+        code with 8 spaces
 
 
 `this is using back quotes`

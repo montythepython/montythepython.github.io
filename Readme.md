@@ -39,7 +39,7 @@ dos
 
 tres
 
-<code>
+<code echo touch ls pwd>
 
 
 `this is using back quotes`

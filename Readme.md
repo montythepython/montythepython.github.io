@@ -64,7 +64,7 @@ tres
 
 ``There is a literal backtick (`) here.``
 
-<code echo touch ls pwd>
+
 
         code with 8 spaces
 

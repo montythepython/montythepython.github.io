@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 #theme: jekyll-theme-cayman
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
